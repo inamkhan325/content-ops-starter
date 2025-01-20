@@ -106,5 +106,15 @@
     ],
     "variant": "logo-centered-primary-nav-centered",
     "colors": "bg-light-fg-dark",
-    "type": "Header"
+    "type": "Header",
+    "styles": {
+        "self": {
+            "padding": [
+                "pt-4",
+                "pl-4",
+                "pb-4",
+                "pr-4"
+            ]
+        }
+    }
 }
