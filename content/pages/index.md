@@ -8,10 +8,16 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: for joining course go to you tube for this playlists
-    text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+    text: >+
+      Name code with harry webdevolopment full course  
+
+
+      1.  click on below link
+
+
+      :
+      <https://www.youtube.com/playlist?list=PLu0W_9lII9agiCUZYRsvtGTXdxkzPyItg>
+
     actions:
       - label: Get started
         altText: ''
