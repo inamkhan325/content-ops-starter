@@ -62,7 +62,7 @@ sections:
     subtitle: Here you can order for website desighn
     items:
       - type: FeaturedItem
-        title: ''
+        title: HTML
         subtitle: ''
         text: ''
         actions: []
