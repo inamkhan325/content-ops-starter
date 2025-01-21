@@ -717,7 +717,7 @@ sections:
         style: primary
         elementId: null
     badge:
-      label: Contact Us
+      label: "Contact Us\_ \_ whatsaap 03369036072"
       color: text-primary
       type: Badge
     colors: bg-light-fg-dark
