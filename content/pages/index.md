@@ -257,7 +257,7 @@ sections:
     type: GenericSection
   - type: GenericSection
     title:
-      text: Generic section with a video
+      text: web devolpment course for beginer
       color: text-dark
       styles:
         self:
