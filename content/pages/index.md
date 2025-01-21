@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: online education is here
+      text: web devolopment
       color: text-dark
       type: TitleBlock
     subtitle: Subtitle goes here
