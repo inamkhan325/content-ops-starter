@@ -272,7 +272,7 @@ sections:
     actions: []
     media:
       title: Web devolpoment course
-      url: /images/placeholder-video.mp4
+      url: ''
       autoplay: true
       loop: true
       muted: true
