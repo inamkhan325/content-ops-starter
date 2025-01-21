@@ -272,11 +272,10 @@ sections:
           textAlign: left
       type: TitleBlock
     subtitle: "click...\_: https://www.youtube.com/playlist?list=PLu0W_9lII9agiCUZYRsvtGTXdxkzPyItg"
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: |
+      1.  for ordering website you can go to fiver account direct
+
+      https\://www\.fiverr.com/s/e63LAlY
     actions: []
     media:
       title: Web devolpoment course
