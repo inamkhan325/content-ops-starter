@@ -7,7 +7,9 @@ sections:
       text: web devolopment
       color: text-dark
       type: TitleBlock
-    subtitle: for joining course go to you tube for this playlists
+    subtitle: >-
+      for joining course go to you tube for this playlists whatsapp contact
+      03369036072
     text: >+
       Name code with harry webdevolopment full course  
 
