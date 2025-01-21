@@ -64,7 +64,8 @@ sections:
       - type: FeaturedItem
         title: HTML
         subtitle: ''
-        text: ''
+        text: |
+          if you order to me for making a website i will use 1st HTML
         actions: []
         elementId: null
         colors: bg-neutralAlt-fg-dark
