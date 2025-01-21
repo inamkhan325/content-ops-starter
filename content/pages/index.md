@@ -59,7 +59,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: Here you can order for website desighn
     items:
       - type: FeaturedItem
         title: 500k
