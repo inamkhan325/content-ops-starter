@@ -59,7 +59,7 @@
             "labelStyle": "secondary"
         },
         {
-            "label": "Homee",
+            "label": "Home",
             "url": "/pricing",
             "icon": "arrowRight",
             "iconPosition": "right",
